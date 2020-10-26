@@ -1,4 +1,4 @@
-# work-day-scheduler
+# work-day-calculator
 
 In this project I built a simple calendar application that allows a user to save events for each hour of the day by modifying starter code.
 
